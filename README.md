@@ -35,11 +35,18 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Redes](https://img.shields.io/badge/Redes-009639?style=for-the-badge&logo=cisco&logoColor=white)
 
+---
+
 ## 📊 Estadísticas de GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarescobartorres10&show_icons=true&theme=dracula" alt="GitHub Stats" />
+<!-- Racha de contribuciones (funciona perfectamente) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=omarescobartorres10&theme=dracula&hide_border=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarescobartorres10&layout=compact&theme=dracula" alt="Top Langs" />
+<!-- Lenguajes más usados (puede fallar si hay mucha carga, pero suele funcionar) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarescobartorres10&layout=compact&theme=dracula&hide_border=true)
+
+<!-- Estadísticas generales (opcional, si no ves la imagen, espera unos minutos o vuelve a intentarlo) -->
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarescobartorres10&show_icons=true&theme=dracula&hide_border=true)
 
 ---
 
