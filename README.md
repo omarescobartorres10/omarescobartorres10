@@ -1,11 +1,10 @@
-
-[![Omar Alberto Escobar Torres](https://via.placeholder.com/1280x400?text=Omar+Alberto+Escobar+Torres+-+Desarrollador+de+Software)](https://github.com/tuusuario)
+[![Omar Alberto Escobar Torres](https://via.placeholder.com/1280x400?text=Omar+Alberto+Escobar+Torres+-+Desarrollador+de+Software)](https://github.com/omarescobartorres10)
 
 ## Hola, soy Omar 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Omar%20Escobar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
 [![Gmail Badge](https://img.shields.io/badge/-omar.escobartorres10@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:omar.escobartorres10@gmail.com)](mailto:omar.escobartorres10@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/tuusuario)
+[![GitHub followers](https://img.shields.io/github/followers/omarescobartorres10?label=Follow&style=social)](https://github.com/omarescobartorres10)
 
 - 💻 Desarrollador de Software con experiencia en digitalización de trámites municipales.
 - 🌍 De San Rafael Obrajuelo, La Paz Este, El Salvador.
@@ -38,9 +37,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tuusuario&theme=dracula&hide_border=true)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarescobartorres10&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarescobartorres10&layout=compact&theme=dracula&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=omarescobartorres10&theme=dracula&hide_border=true)
 
 ---
 
