@@ -37,9 +37,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarescobartorres10&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarescobartorres10&layout=compact&theme=dracula&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=omarescobartorres10&theme=dracula&hide_border=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarescobartorres10&show_icons=true&theme=dracula" alt="GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarescobartorres10&layout=compact&theme=dracula" alt="Top Langs" />
 
 ---
 
