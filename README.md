@@ -39,6 +39,9 @@
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarescobartorres10&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarescobartorres10&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=omarescobartorres10&theme=dracula)
+
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](github-metrics.svg)
