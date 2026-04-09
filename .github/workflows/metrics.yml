@@ -13,13 +13,18 @@ jobs:
         with:
           token: ${{ secrets.PAT_1 }}
           user: omarescobartorres10
+          # ⬇️ Esto elimina TODO el contenido por defecto ⬇️
+          base: ""
           template: classic
-          base: header, repositories
           config_timezone: America/El_Salvador
+          # ⬇️ Solo activamos el plugin de lenguajes ⬇️
           plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 6
-          # ⬇️ Esto guarda el archivo directamente en main ⬇️
-          output_action: replace
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: no
+          plugin_languages_ignored: html, css
+          # ⬇️ Guardado del archivo ⬇️
           filename: github-metrics.svg
-          commit_message: "Actualizar estadísticas [skip ci]"
+          output_action: replace
+          commit_message: "Actualizar solo lenguajes [skip ci]"
