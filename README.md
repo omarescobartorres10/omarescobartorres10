@@ -9,7 +9,6 @@
 - 💻 Desarrollador de Software con experiencia en digitalización de trámites municipales.
 - 🌍 De La Paz Este, El Salvador.
 - 🧠 Apasionado por Laravel, PHP, JavaScript y el desarrollo web.
-- 📫 Contáctame: omar.escobartorres10@gmail.com
 
 ---
 
