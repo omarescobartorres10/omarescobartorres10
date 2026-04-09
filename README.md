@@ -2,14 +2,9 @@
 
 ## Hola, soy Omar 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Omar%20Escobar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
-[![Gmail Badge](https://img.shields.io/badge/-omar.escobartorres10@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:omar.escobartorres10@gmail.com)](mailto:omar.escobartorres10@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/omarescobartorres10?label=Follow&style=social)](https://github.com/omarescobartorres10)
-
 - 💻 Desarrollador de Software con experiencia en digitalización de trámites municipales.
 - 🌍 De La Paz Este, El Salvador.
 - 🧠 Apasionado por Laravel, PHP, JavaScript y el desarrollo web.
-
 ---
 
 ## 🚀 Tecnologías y Herramientas
@@ -38,7 +33,5 @@
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=omarescobartorres10&theme=dracula)
-
-## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](github-metrics.svg)
