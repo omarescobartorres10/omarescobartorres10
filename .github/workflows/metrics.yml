@@ -14,11 +14,12 @@ jobs:
           token: ${{ secrets.PAT_1 }}
           user: omarescobartorres10
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           config_timezone: America/El_Salvador
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          # ⬇️ Esto guarda el archivo directamente en main ⬇️
+          output_action: replace
+          filename: github-metrics.svg
+          commit_message: "Actualizar estadísticas [skip ci]"
