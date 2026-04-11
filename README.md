@@ -1,5 +1,3 @@
-[![Omar Alberto Escobar Torres](https://via.placeholder.com/1280x400?text=Omar+Alberto+Escobar+Torres+-+Desarrollador+de+Software)](https://github.com/omarescobartorres10)
-
 ## Hola, soy Omar 👋
 
 - 💻 Desarrollador de Software con experiencia en digitalización de trámites municipales.
