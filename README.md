@@ -1,5 +1,5 @@
 ## Hola, soy Omar 👋
-![Banner](4rwst (1).jpg)
+![Banner](4rwst1.jpg)
 - 💻 Desarrollador de Software con experiencia en digitalización de trámites municipales.
 - 🌍 De La Paz Este, El Salvador.
 - 🧠 Apasionado por Laravel, PHP, JavaScript y el desarrollo web.
