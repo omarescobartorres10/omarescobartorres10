@@ -35,6 +35,5 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=omarescobartorres10&theme=dracula)
 
 ![Estadísticas de GitHub](github-metrics.svg)
