@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.1420252360101" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="279.1420252360101" y="0" width="140.71859978230054" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="419.8606250183107" y="0" width="15.726971971757663" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="435.5875969900684" y="0" width="15.716346164680854" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.3039431547493" y="0" width="6.703070103283295" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.00701325803254" y="0" width="1.6967599739481805" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.70377323198073" y="0" width="0.2962267680193631" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.8284672354411" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="278.8284672354411" y="0" width="140.5605317065484" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="419.3889989419895" y="0" width="16.215406433604212" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.6044053755937" y="0" width="15.70930599014024" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="451.3137113657339" y="0" width="6.695540598338699" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.0092519640726" y="0" width="1.6948540170632331" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.70410598113585" y="0" width="0.29589401886410194" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,19 +40,19 @@
                             </div>
                             <small>
                                 <div>1.08 MB</div>
-                                <div>60.68%</div>
+                                <div>60.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Astro
+                                JavaScript
                             </div>
                             <small>
-                                <div>60.6 kB</div>
-                                <div>3.42%</div>
+                                <div>62.6 kB</div>
+                                <div>3.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,15 +90,15 @@
                             </div>
                             <small>
                                 <div>542 kB</div>
-                                <div>30.59%</div>
+                                <div>30.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Astro
                             </div>
                             <small>
                                 <div>60.6 kB</div>
