@@ -1,60 +1,44 @@
-<div align="center">
 
-<img src="banner-omar.svg" width="100%" alt="Omar Torres"/>
+# Omar Torres
 
-<br/><br/>
+![Banner](assets/banner-omar.png)
 
-<h3>Full Stack Developer · El Salvador</h3>
+Full Stack Developer especializado en **PHP y Laravel**.
+Desarrollo aplicaciones web, sistemas de gestión y soluciones
+orientadas a la digitalización de procesos.
 
-<p><em>Building web applications with PHP &amp; Laravel — turning complex processes into reliable software.</em></p>
-
-<a href="https://www.linkedin.com/in/omar-t-43540b402/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:omar.escobartorres10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+Actualmente trabajo en la **Alcaldía Municipal de La Paz Este**,
+participando en el desarrollo de soluciones tecnológicas.
 
 ---
 
-I'm **Omar**, a Full Stack Developer currently at **Alcaldía Municipal de La Paz Este**, where I focus on digitalizing internal processes and building practical, dependable web tools.
+## Tecnologías y herramientas
+
+**Backend & Frontend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Bases de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-### `01` — Stack
+## Contacto
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=php,laravel" height="36" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=js,alpinejs,html,css,tailwind" height="36" />
-
-**Database**  
-<img src="https://skillicons.dev/icons?i=mysql" height="36" />
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vite" height="36" />
-
----
-
-### `02` — What I do
-
-- **Backend development** — APIs and business logic with Laravel
-- **Web applications** — end-to-end features, from schema to UI
-- **Database design** — schema modeling and query optimization with MySQL
-- **Process digitalization** — replacing manual workflows with software
-
----
-
-### `03` — Reach me
-
-- **LinkedIn** — [omar-t-43540b402](https://www.linkedin.com/in/omar-t-43540b402/)
-- **Email** — [omar.escobartorres10@gmail.com](mailto:omar.escobartorres10@gmail.com)
-
----
-
-<div align="center">
-<sub>OMAR TORRES · FULL STACK DEVELOPER · EL SALVADOR</sub>
-</div>
+[LinkedIn](https://www.linkedin.com/in/omar-t-43540b402/)
+· [Portafolio](https://porfoliodeomar.netlify.app)
+· [Correo](mailto:omar.escobartorres10@gmail.com)
