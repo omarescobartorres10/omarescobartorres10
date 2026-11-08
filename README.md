@@ -1,67 +1,61 @@
-<div align="center">
-  <img src="./assets/banner-omar.png" alt="Omar Torres — Full Stack Laravel Developer" width="100%" />
-</div>
 
-# Omar Torres
+<p align="center">
+  <img
+    src="./assets/banner-omar.svg"
+    alt="Omar Torres — Full Stack Laravel Developer"
+    width="100%"
+  />
+</p>
 
-**Desarrollador Full Stack · Laravel & PHP**
-
-Desarrollo aplicaciones web orientadas a resolver necesidades reales: digitalización de procesos, gestión de información y herramientas colaborativas. Mi experiencia práctica se centra en el desarrollo backend con **PHP y Laravel**, acompañado de interfaces construidas con **Blade, Alpine.js y Tailwind CSS**.
-
----
-
-## Proyectos destacados
-
-### 01 · Portal de Trámites y Declaraciones
-
-Plataforma de servicios municipales para presentar solicitudes en línea y dar seguimiento a los trámites. Incluye declaraciones juradas, solicitudes de estados de cuenta y licencias, carga de documentos, notificaciones por correo y un panel de gestión para funcionarios.
-
-**Stack:** Laravel 12 · PHP 8.2+ · Blade · Tailwind CSS 4 · MySQL · Vite · PHPUnit
-
-[Ver código fuente](https://github.com/omarescobartorres10/landing-formularios) · [Ver aplicación](https://declaraciones.lapazeste.gob.sv/)
-
-### 02 · TaskFlow — Gestor de tareas colaborativo
-
-Aplicación de gestión de tareas con tablero Kanban, responsables, vencimientos y un chat integrado en cada tarea. Incluye menciones entre usuarios, notificaciones en tiempo real, archivos adjuntos e historial de cambios.
-
-**Stack:** Laravel 12 · PHP 8.2+ · Blade · Alpine.js · Tailwind CSS 4 · MySQL · Laravel Echo · Pusher
-
-[Ver código fuente](https://github.com/omarescobartorres10/gestor-tareas-la-paz-este)
-
-### 03 · DevJobs — Plataforma de búsqueda de empleo
-
-Aplicación web para explorar ofertas de trabajo con búsqueda por título, filtros combinados, paginación y páginas de detalle. Desarrollada con enfoque responsive y JavaScript sin frameworks.
-
-**Stack:** HTML5 · CSS3 · JavaScript · Fetch API · LocalStorage
-
-[Ver código fuente](https://github.com/omarescobartorres10/jscamp) · [Ver demo](https://imaginative-semifreddo-4d8a32.netlify.app/)
+<p align="center">
+  <a href="https://porfoliodeomar.netlify.app">PORTAFOLIO</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/omar-t-43540b402/">LINKEDIN</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:omar.escobartorres10@gmail.com">EMAIL</a>
+</p>
 
 ---
 
-## Stack tecnológico
+## Sobre mí
 
-| Área | Tecnologías |
-| --- | --- |
-| Backend | PHP · Laravel |
-| Frontend | Blade · JavaScript · Alpine.js · HTML5 · CSS3 |
-| Estilos y build | Tailwind CSS · Vite |
-| Bases de datos | MySQL · MariaDB |
-| Tiempo real | Laravel Echo · Pusher |
-| Herramientas y calidad | Git · Composer · PHPUnit |
+Soy desarrollador de software enfocado en la construcción de aplicaciones web con **PHP y Laravel**.
+
+Me interesa desarrollar soluciones que simplifiquen procesos, organicen información y respondan a necesidades reales. Mi enfoque combina desarrollo backend, integración de bases de datos y construcción de interfaces funcionales.
+
+He participado en proyectos de digitalización de procesos municipales, desde el desarrollo de sistemas web hasta la implementación de herramientas para la gestión de información.
+
+Actualmente continúo fortaleciendo mis conocimientos en el ecosistema Laravel y en el desarrollo Full Stack.
+
+## Especialización técnica
+
+**Backend**  
+PHP · Laravel
+
+**Frontend**  
+Blade · JavaScript · Alpine.js · HTML · CSS · Tailwind CSS
+
+**Bases de datos**  
+MySQL · MariaDB
+
+**Herramientas y ecosistema**  
+Git · Composer · Vite · PHPUnit · Laravel Echo · Pusher
+
+## Experiencia
+
+**Alcaldía Municipal de La Paz Este**  
+*Practicante en Desarrollo y Soporte Técnico*  
+Diciembre 2025 — Febrero 2026
+
+Participé en el desarrollo de soluciones web para la digitalización de trámites municipales.
+
+- Diseñé y desarrollé un sistema web utilizando Laravel y PHP.
+- Participé en la implementación de un portal ciudadano para trámites y consultas en línea.
+- Realicé mantenimiento de equipos informáticos, software y cámaras de videovigilancia.
+- Colaboré en tareas de soporte técnico y resolución de incidencias.
 
 ---
 
-## Experiencia relevante
-
-**Practicante en Desarrollo y Soporte Técnico** — Alcaldía Municipal de La Paz Este  
-*Diciembre 2025 – febrero 2026*
-
-Participé en el desarrollo de soluciones web para digitalizar trámites municipales y en la implementación de un portal ciudadano. También realicé mantenimiento de equipos y software, y brindé soporte técnico a usuarios.
-
----
-
-## Contacto
-
-[LinkedIn](https://www.linkedin.com/in/omar-t-43540b402/) · [Correo electrónico](mailto:omar.escobartorres10@gmail.com) · [GitHub](https://github.com/omarescobartorres10)
-
-<sub>La Paz, El Salvador</sub>
+<p align="center">
+  <sub>Desarrollando soluciones, aprendiendo continuamente y mejorando con cada proyecto.</sub>
+</p>
