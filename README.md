@@ -1,34 +1,67 @@
-## Hola, soy Omar 👋
-![Banner](WsoXi.jpg)
-- 💻 Desarrollador de Software con experiencia en digitalización de trámites municipales.
-- 🌍 De La Paz Este, El Salvador.
-- 🧠 Apasionado por Laravel, PHP, JavaScript, React y el desarrollo web.
----
+<div align="center">
+  <img src="./assets/banner-omar.png" alt="Omar Torres — Full Stack Laravel Developer" width="100%" />
+</div>
 
-## 🚀 Tecnologías y Herramientas
+# Omar Torres
 
+**Desarrollador Full Stack · Laravel & PHP**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🛠️ Ofimática y Soporte
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-009639?style=for-the-badge&logo=cisco&logoColor=white)
+Desarrollo aplicaciones web orientadas a resolver necesidades reales: digitalización de procesos, gestión de información y herramientas colaborativas. Mi experiencia práctica se centra en el desarrollo backend con **PHP y Laravel**, acompañado de interfaces construidas con **Blade, Alpine.js y Tailwind CSS**.
 
 ---
+
+## Proyectos destacados
+
+### 01 · Portal de Trámites y Declaraciones
+
+Plataforma de servicios municipales para presentar solicitudes en línea y dar seguimiento a los trámites. Incluye declaraciones juradas, solicitudes de estados de cuenta y licencias, carga de documentos, notificaciones por correo y un panel de gestión para funcionarios.
+
+**Stack:** Laravel 12 · PHP 8.2+ · Blade · Tailwind CSS 4 · MySQL · Vite · PHPUnit
+
+[Ver código fuente](https://github.com/omarescobartorres10/landing-formularios) · [Ver aplicación](https://declaraciones.lapazeste.gob.sv/)
+
+### 02 · TaskFlow — Gestor de tareas colaborativo
+
+Aplicación de gestión de tareas con tablero Kanban, responsables, vencimientos y un chat integrado en cada tarea. Incluye menciones entre usuarios, notificaciones en tiempo real, archivos adjuntos e historial de cambios.
+
+**Stack:** Laravel 12 · PHP 8.2+ · Blade · Alpine.js · Tailwind CSS 4 · MySQL · Laravel Echo · Pusher
+
+[Ver código fuente](https://github.com/omarescobartorres10/gestor-tareas-la-paz-este)
+
+### 03 · DevJobs — Plataforma de búsqueda de empleo
+
+Aplicación web para explorar ofertas de trabajo con búsqueda por título, filtros combinados, paginación y páginas de detalle. Desarrollada con enfoque responsive y JavaScript sin frameworks.
+
+**Stack:** HTML5 · CSS3 · JavaScript · Fetch API · LocalStorage
+
+[Ver código fuente](https://github.com/omarescobartorres10/jscamp) · [Ver demo](https://imaginative-semifreddo-4d8a32.netlify.app/)
+
+---
+
+## Stack tecnológico
+
+| Área | Tecnologías |
+| --- | --- |
+| Backend | PHP · Laravel |
+| Frontend | Blade · JavaScript · Alpine.js · HTML5 · CSS3 |
+| Estilos y build | Tailwind CSS · Vite |
+| Bases de datos | MySQL · MariaDB |
+| Tiempo real | Laravel Echo · Pusher |
+| Herramientas y calidad | Git · Composer · PHPUnit |
+
+---
+
+## Experiencia relevante
+
+**Practicante en Desarrollo y Soporte Técnico** — Alcaldía Municipal de La Paz Este  
+*Diciembre 2025 – febrero 2026*
+
+Participé en el desarrollo de soluciones web para digitalizar trámites municipales y en la implementación de un portal ciudadano. También realicé mantenimiento de equipos y software, y brindé soporte técnico a usuarios.
+
+---
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/omar-t-43540b402/) · [Correo electrónico](mailto:omar.escobartorres10@gmail.com) · [GitHub](https://github.com/omarescobartorres10)
+
+<sub>La Paz, El Salvador</sub>
