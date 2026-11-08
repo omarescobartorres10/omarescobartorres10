@@ -1,10 +1,6 @@
-
-## Hola, soy Omar 👋
-
 <img src="banner_omar.png" width="100%" alt="Omar Torres"/>
 
-
-## 👨‍💻 Sobre mí
+## ¡Hey 👋! Soy Omar Torres 👨🏻‍💻
 
 Soy **Omar Torres**, desarrollador **Full Stack** de El Salvador. Me apasiona transformar ideas y necesidades reales en aplicaciones web funcionales, cuidando tanto la lógica y arquitectura del backend como la experiencia de usuario en el frontend.
 
