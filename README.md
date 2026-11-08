@@ -3,9 +3,9 @@
 
 <img src="banner-omar.svg" width="100%" alt="Omar Torres"/>
 
-- 💻 Desarrollador Full Stack con experiencia en digitalización de trámites municipales.
+- 💻 Desarrollador Full Stack enfocado en crear aplicaciones web completas.
 - 🌍 De La Paz Este, El Salvador.
-- 🧠 Apasionado por el desarrollo web, trabajando tanto en frontend como backend con Laravel, PHP, JavaScript y React.
+- 🧠 Apasionado por el desarrollo web, con enfoque en tecnologías frontend y backend como PHP, Laravel, JavaScript y React.
 
 ---
 
