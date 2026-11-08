@@ -6,11 +6,6 @@ Soy **Omar Torres**, desarrollador **Full Stack** de El Salvador. Me apasiona tr
 
 Tengo experiencia desarrollando soluciones web con **PHP y Laravel**, trabajando con bases de datos e integrando tecnologías frontend para crear aplicaciones completas. Me interesa especialmente construir sistemas que optimicen procesos, faciliten tareas y aporten valor a quienes los utilizan.
 
-Disfruto aprender nuevas tecnologías, resolver problemas y enfrentar retos que me permitan seguir creciendo como desarrollador.
-
-🌍 **Ubicación:** La Paz Este, El Salvador.
-
-
 ---
 
 ## 🚀 Tecnologías y Herramientas
