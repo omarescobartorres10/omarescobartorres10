@@ -1,7 +1,7 @@
 
 ## Hola, soy Omar 👋
 
-<img src="banner-omar.png" width="100%" alt="Omar Torres"/>
+<img src="banner_omar.png" width="100%" alt="Omar Torres"/>
 
 - 💻 Desarrollador Full Stack enfocado en crear aplicaciones web completas.
 - 🌍 De La Paz Este, El Salvador.
