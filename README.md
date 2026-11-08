@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="./assets/banner-omar.svg"
+    src="banner-omar.svg"
     alt="Omar Torres — Full Stack Laravel Developer"
     width="100%"
   />
